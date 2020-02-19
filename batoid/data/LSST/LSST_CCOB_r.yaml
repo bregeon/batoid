@@ -17,13 +17,6 @@ opticalSystem:
       z: 3. #0.4393899
   items:
     -
-      type: Detector
-      name: LightSource
-      surface:
-        type: Plane
-      coordSys:
-        z: 0.
-    -
       type: CompoundOptic
       name: LSSTCamera
       coordSys:
